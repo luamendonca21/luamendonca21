@@ -1,6 +1,6 @@
 ### Hello world 👋, I'm [Luana Mendonça!](https://github.com/luamendonca21/)
 
-<a href="www.linkedin.com/in/luanamendonca21">
+<a href="https://www.linkedin.com/public-profile/settings">
   <img src="https://img.shields.io/badge/LinkedIn-2554da?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://instagram.com/luamendonca21">
