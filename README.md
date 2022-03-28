@@ -4,10 +4,16 @@
   <img src="https://img.shields.io/badge/LinkedIn-2554da?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://instagram.com/luamendonca21">
-  <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 <a href="https://www.facebook.com/LuanaMendonca00">
-  <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+<a href="discordapp.com/users/688143629432258592">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Facebook Badge"/>
+</a>
+<a href="https://open.spotify.com/user/11153684721?si=40e260d1e9cc44d3">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Facebook Badge"/>
 </a>
 
 
