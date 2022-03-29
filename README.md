@@ -20,6 +20,10 @@
 <a href="https://open.spotify.com/user/11153684721?si=40e260d1e9cc44d3">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Facebook Badge"/>
 </a>
+<a href="mailto:luamendonca_2000@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+
 
 
 ### :woman_technologist: About Me:
