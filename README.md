@@ -54,7 +54,7 @@
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/react-native-seeklogo.com.svg" title="ReactNative" alt="ReactNative" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/react-native-seeklogo.com.svg" title="ReactNative" alt="ReactNative" width="45" height="42"/>&nbsp;
 </div>
 
 ### 🎨 Design
