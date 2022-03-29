@@ -1,3 +1,7 @@
+<!-- PROFILE IDEAS https://www.sitepoint.com/github-profile-readme/?msclkid=61c38ff2aef311ec90c71b9e09d5ff3d -->
+
+<!-- LINK TO THE BUTTONS IDEAS https://dev.to/envoy_/150-badges-for-github-pnk?msclkid=6d81ccf1aeee11ec86763850e8306c32 -->
+
 ### Hello world 👋, I'm [Luana Mendonça!](https://github.com/luamendonca21/)
 
 <a href="https://www.linkedin.com/public-profile/settings">
@@ -27,23 +31,28 @@ I'm a student currently taking a Master in Computer Engineering, with a special 
 ### Languages and Tools
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactNative" alt="ReactNative" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VScoed" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="ReactNative" alt="ReactNative" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VScoed" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 </div>
 
 
 ### 🔥 My Stats:
 
   <a title="GitHub Stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=luamendonca21&show_icons=true&theme=chartreuse-dark">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=luamendonca21&show_icons=true&theme=tokyonight">
   </a>
-
+  
+  <a title="GitHub Stats">
+    <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luamendonca21&theme=tokyonight">
+  </a
+ 
   <a title="Most Used Languages">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendonca21&theme=chartreuse-dark&layout=compact" />
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendonca21&theme=tokyonight&layout=compact" />
   </a>
