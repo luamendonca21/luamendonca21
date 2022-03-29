@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/public-profile/settings">
   <img src="https://img.shields.io/badge/LinkedIn-2554da?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+<a href="https://slack.com/app_redirect?channel=U02H9918P2A">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge"/>
+</a>
 <a href="https://instagram.com/luamendonca21">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
