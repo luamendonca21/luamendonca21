@@ -39,7 +39,7 @@
   - ⚡ I love music, programming, photography, games and hanging out with my friends
  </div>
 
-### 🛠 Languages and Tools
+### 🐍 Languages
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -48,6 +48,11 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
 </div>
 
+### 🛠 Tools
+
+<div>
+  <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/xampp-seeklogo.com.svg" title="Xampp" alt="Xampp" width="40" height="40"/>&nbsp;
+</div>
 
 ### 📦 Frameworks & Libraries
 
