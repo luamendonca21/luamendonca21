@@ -10,7 +10,7 @@
 
 ### Hello world 👋, I'm [Luana Mendonça!](https://github.com/luamendonca21/)
 
-<h3>Connect with me:</h3>
+<h3> 🤝 Connect with me:</h3>
 <a href="https://www.linkedin.com/public-profile/settings">
   <img src="https://img.shields.io/badge/LinkedIn-2554da?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
