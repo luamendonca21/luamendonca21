@@ -70,6 +70,7 @@ I'm a student currently taking a Master in Computer Engineering, with a special 
 
 <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" title="Github" **alt="Github" width="40" height="40"/>
 </div>
 
 ### 💾 Database
