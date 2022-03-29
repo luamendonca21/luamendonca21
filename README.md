@@ -4,6 +4,7 @@
 
 ### Hello world 👋, I'm [Luana Mendonça!](https://github.com/luamendonca21/)
 
+<h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/public-profile/settings">
   <img src="https://img.shields.io/badge/LinkedIn-2554da?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -25,8 +26,9 @@
 
 I'm a student currently taking a Master in Computer Engineering, with a special interest in Mobile Development.
 
-- 💻 I’m currently learning React Native/Javascript and Flutter/Dart
-- :mailbox: How to reach me: luamendonca_2000@hotmail.com
+- 🌱 I’m currently learning React Native/Javascript and Flutter/Dart
+- 📫 How to reach me: luamendonca_2000@hotmail.com
+- ⚡ In my free time I like listening to music, playing games, and hanging out with my friends
 
 ### 🛠 Languages and Tools
 
