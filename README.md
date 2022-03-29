@@ -11,7 +11,7 @@
 ### Hello world 👋, I'm [Luana Mendonça!](https://github.com/luamendonca21/)
 
 <h3> 🤝 Connect with me:</h3>
-<a href="https://www.linkedin.com/public-profile/settings">
+<a href="https://www.linkedin.com/in/luanamendonca21">
   <img src="https://img.shields.io/badge/LinkedIn-2554da?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://slack.com/app_redirect?channel=U02H9918P2A">
