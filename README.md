@@ -25,10 +25,10 @@
 
 I'm a student currently taking a Master in Computer Engineering, with a special interest in Mobile Development.
 
-- 🌱 I’m currently learning React Native/Javascript and Flutter/Dart
+- 💻 I’m currently learning React Native/Javascript and Flutter/Dart
 - :mailbox: How to reach me: luamendonca_2000@hotmail.com
 
-### Languages and Tools
+### 🛠 Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
