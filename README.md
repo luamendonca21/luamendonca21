@@ -1,4 +1,4 @@
-<!-- LINK TO PROFILE https://github.com/durgeshsamariya/awesome-github-profile-readme-templates -->
+<!-- LINK TO PROFILES https://github.com/durgeshsamariya/awesome-github-profile-readme-templates -->
 
 <!-- LINK TO BUTTONS_1 https://dev.to/envoy_/150-badges-for-github-pnk?msclkid=6d81ccf1aeee11ec86763850e8306c32 -->
 
