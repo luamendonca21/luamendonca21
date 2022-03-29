@@ -1,12 +1,12 @@
-<!-- PROFILES TEMPLATE https://github.com/durgeshsamariya/awesome-github-profile-readme-templates -->
+<!-- LINK TO PROFILE IDEAS https://github.com/durgeshsamariya/awesome-github-profile-readme-templates -->
 
-<!-- LINK TO THE BUTTONS IDEAS https://dev.to/envoy_/150-badges-for-github-pnk?msclkid=6d81ccf1aeee11ec86763850e8306c32 -->
+<!-- LINK TO BUTTONS IDEAS https://dev.to/envoy_/150-badges-for-github-pnk?msclkid=6d81ccf1aeee11ec86763850e8306c32 -->
 
-<!-- LINK TO THE BUTTONS IDEAS https://github.com/devicons/devicon/tree/master/icons -->
+<!-- LINK TO BUTTONS IDEAS https://github.com/devicons/devicon/tree/master/icons -->
 
-<!-- LINK TO THE BUTTONS IDEAS https://github.com/tandpfun/skill-icons/tree/main/icons -->
+<!-- LINK TO BUTTONS IDEAS https://github.com/tandpfun/skill-icons/tree/main/icons -->
 
-<!-- LINK TO THE EMOJIS https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md?msclkid=6b85705daf3e11ecac4572c7f8e81b0d#animals--nature -->
+<!-- LINK TO EMOJIS https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md?msclkid=6b85705daf3e11ecac4572c7f8e81b0d#animals--nature -->
 
 ### Hello world 👋, I'm [Luana Mendonça!](https://github.com/luamendonca21/)
 
