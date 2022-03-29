@@ -27,15 +27,16 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
-### :woman_technologist: About Me:
+  ### :woman_technologist: About Me:
+<div>
+  I'm a student currently taking a Master in Computer Engineering, with a special interest in Mobile Development.
 
-I'm a student currently taking a Master in Computer Engineering, with a special interest in Mobile Development.
+  - 🌱 I’m currently learning React Native/Javascript and Flutter/Dart
+  - 📫 How to reach me: luamendonca_2000@hotmail.com
+  - ⚡ I love music, programming, photography, games and hanging out with my friends
+ </div>
 
-- 🌱 I’m currently learning React Native/Javascript and Flutter/Dart
-- 📫 How to reach me: luamendonca_2000@hotmail.com
-- ⚡ I love music, programming, photography, games and hanging out with my friends
-
-### 🛠 Languages
+### 🛠 Languages and Tools
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -80,7 +81,7 @@ I'm a student currently taking a Master in Computer Engineering, with a special 
 </div>
 
 ### 🔥 My Stats
-
+<div>
   <a title="GitHub Stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/?username=luamendonca21&show_icons=true&theme=algolia">
   </a>
@@ -92,4 +93,4 @@ I'm a student currently taking a Master in Computer Engineering, with a special 
   <a title="Most Used Languages">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendonca21&theme=algolia&layout=compact" />
   </a>
-  
+</div>
