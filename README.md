@@ -70,6 +70,7 @@
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VScode" alt="VScoed" width="40" height="40"/>
   <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/sublime-text-seeklogo.com.svg" title="SublimeText" alt="SublimeText" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" title="SublimeText" alt="SublimeText" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🔧 Version Control 
