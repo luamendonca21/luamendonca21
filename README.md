@@ -81,7 +81,7 @@ I'm a student currently taking a Master in Computer Engineering, with a special 
 ### 🔥 My Stats
 
   <a title="GitHub Stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=luamendonca21&show_icons=true&theme=algolia">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/?username=luamendonca21&show_icons=true&theme=algolia">
   </a>
   
   <a title="GitHub Stats">
