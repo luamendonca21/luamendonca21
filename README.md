@@ -58,28 +58,29 @@
 ### 🎨 Design
 
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-  <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/adobe-xd-seeklogo.com.svg" title="XD" **alt="XD" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/adobe-xd-seeklogo.com.svg" title="XD" **alt="XD" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
 </div>
 
 ### 👨‍🔧 IDEs/Editors
 
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VScode" **alt="VScoed" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VScode" alt="VScoed" width="40" height="40"/>
+  <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/sublime-text-seeklogo.com.svg" title="SublimeText" alt="SublimeText" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🔧 Version Control 
 
 <div>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" title="Github" **alt="Github" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
 ### 👩‍💼 Project Management 
 
 <div>
-    <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/miro-seeklogo.com.svg" title="Miro" **alt="Miro" width="40" height="40"/>
+    <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/miro-seeklogo.com.svg" title="Miro" **alt="Miro" width="40" height="40"/>&nbsp;
 </div>
 
 ### 💾 Database
