@@ -60,7 +60,7 @@
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="XD" **alt="XD" width="40" height="40"/>
+  <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/adobe-xd-seeklogo.com.svg" title="XD" **alt="XD" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
 </div>
 
