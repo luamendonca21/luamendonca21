@@ -32,7 +32,7 @@ I'm a student currently taking a Master in Computer Engineering, with a special 
 
 - 🌱 I’m currently learning React Native/Javascript and Flutter/Dart
 - 📫 How to reach me: luamendonca_2000@hotmail.com
-- ⚡ In my free time I like listening to music, playing games, and hanging out with my friends
+- ⚡ I love music, programming, photography, games and hanging out with my friends
 
 ### 🛠 Languages and Tools
 
@@ -62,3 +62,4 @@ I'm a student currently taking a Master in Computer Engineering, with a special 
   <a title="Most Used Languages">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendonca21&theme=tokyonight&layout=compact" />
   </a>
+  
