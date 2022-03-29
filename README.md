@@ -1,4 +1,4 @@
-<!-- PROFILE IDEAS https://www.sitepoint.com/github-profile-readme/?msclkid=61c38ff2aef311ec90c71b9e09d5ff3d -->
+<!-- PROFILES TEMPLATE https://github.com/durgeshsamariya/awesome-github-profile-readme-templates -->
 
 <!-- LINK TO THE BUTTONS IDEAS https://dev.to/envoy_/150-badges-for-github-pnk?msclkid=6d81ccf1aeee11ec86763850e8306c32 -->
 
