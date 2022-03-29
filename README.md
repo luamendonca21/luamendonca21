@@ -65,7 +65,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
 </div>
 
-### 👨‍🔧 IDEs/Editors
+### 📝 IDEs/Editors
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VScode" alt="VScode" width="40" height="40"/>
@@ -80,7 +80,7 @@
     <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
-### 👩‍💼 Project Management 
+### 👨‍💼 Project Management 
 
 <div>
     <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/miro-seeklogo.com.svg" title="Miro" **alt="Miro" width="40" height="40"/>&nbsp;
