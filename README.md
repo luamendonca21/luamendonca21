@@ -77,6 +77,12 @@
     <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" title="Github" **alt="Github" width="40" height="40"/>
 </div>
 
+### 👩‍💼 Project Management 
+
+<div>
+    <img src="https://seeklogo.com/vector-logo/401278/miro" title="Miro" **alt="Miro" width="40" height="40"/>
+</div>
+
 ### 💾 Database
 
 <div>
