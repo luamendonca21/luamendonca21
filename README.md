@@ -14,7 +14,9 @@
 <a href="https://www.facebook.com/LuanaMendonca00">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </a>
-
+<a>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+</a>
 <a href="https://open.spotify.com/user/11153684721?si=40e260d1e9cc44d3">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Facebook Badge"/>
 </a>
@@ -22,13 +24,13 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
+
 ### :woman_technologist: About Me:
 
 I'm a student currently taking a Master in Computer Engineering, with a special interest in Mobile Development.
 
 - 🌱 I’m currently learning React Native/Javascript and Flutter/Dart
-- 📫 How to reach me: 
-    -  <img width=80 src="https://icons8.com/icons/set/discord-svg?msclkid=30d2fffeaefc11ec920bbb20f3a2c460" alt="Discord Badge"/>: tecna#4508
+- 📫 How to reach me: luamendonca_2000@hotmail.com
 - ⚡ I love music, programming, photography, games and hanging out with my friends
 
 ### 🛠 Languages and Tools
