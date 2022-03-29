@@ -80,7 +80,7 @@
 ### 👩‍💼 Project Management 
 
 <div>
-    <img src="https://seeklogo.com/vector-logo/401278/miro" title="Miro" **alt="Miro" width="40" height="40"/>
+    <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/miro-seeklogo.com.svg" title="Miro" **alt="Miro" width="40" height="40"/>
 </div>
 
 ### 💾 Database
