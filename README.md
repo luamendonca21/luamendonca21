@@ -10,7 +10,7 @@
 
 ### Hello world 👋, I'm [Luana Mendonça!](https://github.com/luamendonca21/)
 
-<h3> 🤝 Connect with me:</h3>
+<h3> 🤝 Connect with me</h3>
 <a href="https://www.linkedin.com/in/luanamendonca21">
   <img src="https://img.shields.io/badge/LinkedIn-2554da?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
-  ### :woman_technologist: About Me:
+  ### :woman_technologist: About Me
 <div>
   I'm a student currently taking a Master in Computer Engineering, with a special interest in Mobile Development.
 
