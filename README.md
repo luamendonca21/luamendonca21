@@ -90,6 +90,7 @@
 <div>
     <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/xampp-seeklogo.com.svg" title="Xampp" alt="Xampp" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/phpmyadmin-seeklogo.com.svg" title="phpMyAdmin" alt="phpMyAdmin" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🔥 My Stats
