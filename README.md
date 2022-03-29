@@ -80,7 +80,7 @@
     <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
-### 👨‍💼 Project Management 
+### 👩‍🔧 Project Management 
 
 <div>
     <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/miro-seeklogo.com.svg" title="Miro" **alt="Miro" width="40" height="40"/>&nbsp;
