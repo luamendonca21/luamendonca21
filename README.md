@@ -81,14 +81,14 @@ I'm a student currently taking a Master in Computer Engineering, with a special 
 ### 🔥 My Stats
 
   <a title="GitHub Stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=luamendonca21&show_icons=true&theme=tokyonight">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=luamendonca21&show_icons=true&theme=algolia">
   </a>
   
   <a title="GitHub Stats">
-    <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luamendonca21&theme=tokyonight">
+    <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luamendonca21&theme=algolia">
   </a
  
   <a title="Most Used Languages">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendonca21&theme=tokyonight&layout=compact" />
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendonca21&theme=algolia&layout=compact" />
   </a>
   
