@@ -1,10 +1,10 @@
-<!-- LINK TO PROFILE IDEAS https://github.com/durgeshsamariya/awesome-github-profile-readme-templates -->
+<!-- LINK TO PROFILE https://github.com/durgeshsamariya/awesome-github-profile-readme-templates -->
 
-<!-- LINK TO BUTTONS IDEAS https://dev.to/envoy_/150-badges-for-github-pnk?msclkid=6d81ccf1aeee11ec86763850e8306c32 -->
+<!-- LINK TO BUTTONS_1 https://dev.to/envoy_/150-badges-for-github-pnk?msclkid=6d81ccf1aeee11ec86763850e8306c32 -->
 
-<!-- LINK TO BUTTONS IDEAS https://github.com/devicons/devicon/tree/master/icons -->
+<!-- LINK TO BUTTONS_2 https://github.com/devicons/devicon/tree/master/icons -->
 
-<!-- LINK TO BUTTONS IDEAS https://github.com/tandpfun/skill-icons/tree/main/icons -->
+<!-- LINK TO BUTTONS_3 https://github.com/tandpfun/skill-icons/tree/main/icons -->
 
 <!-- LINK TO EMOJIS https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md?msclkid=6b85705daf3e11ecac4572c7f8e81b0d#animals--nature -->
 
