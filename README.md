@@ -36,7 +36,7 @@
 
   - 🌱 I’m currently learning React Native/Javascript and Flutter/Dart
   - 📫 How to reach me: luamendonca_2000@hotmail.com
-  - ⚡ I love music, programming, photography, games and hanging out with my friends
+  - ⚡ I love music, programming, photography, games and hanging out with friends
  </div>
 
 ### 🐍 Languages
