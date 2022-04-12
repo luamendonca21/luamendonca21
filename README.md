@@ -94,7 +94,7 @@
     <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/phpmyadmin-seeklogo.com.svg" title="phpMyAdmin" alt="phpMyAdmin" width="70" height="40"/>&nbsp;
 </div>
 
-### 📊 My Stats
+### 📊 Stats
 <div>
   <a title="GitHub Stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/?username=luamendonca21&show_icons=true&theme=algolia">
