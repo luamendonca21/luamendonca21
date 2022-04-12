@@ -34,7 +34,7 @@
 <div>
   I'm a student currently taking a Master in Computer Engineering, with a special interest in Mobile Development.
 
-  - 🌱 I’m currently learning React Native/Javascript and Flutter/Dart
+  - 🌱 I’m currently learning <b>React Native/Javascript</b> and <b>Flutter/Dart</b>
   - 📫 How to reach me: luamendonca_2000@hotmail.com
   - ⚡ I love music, programming, photography, games and hanging out with friends
  </div>
