@@ -37,9 +37,10 @@
   - 🌱 I’m currently learning <b>React Native/Javascript</b> and <b>Flutter/Dart</b><br>
   - 📫 How to reach me: luamendonca_2000@hotmail.com<br>
   - ⚡ I love music, programming, photography, games and hanging out with friends
- 
+  
+  ### 👩‍🔧 What do I use on a daily basis
 
-### Languages, Frameworks & Libraries
+<h4>Languages, Frameworks & Libraries</h4>
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -52,7 +53,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="Nodejs" alt="Nodejs" width="45" height="42"/>&nbsp;  
 </div>
 
-### Design
+<h4>Design</h4>
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
@@ -60,34 +61,34 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
 </div>
 
-### IDEs/Editors
+<h4>IDEs/Editors</h4>
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/sublime-text-seeklogo.com.svg" title="SublimeText" alt="SublimeText" width="40" height="40"/>&nbsp;
 </div>
 
-### Version Control 
+<h4>Version Control</h4>
 
 <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
-### Project Management 
+<h4>Project Management</h4>
 
 <div>
     <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/miro-seeklogo.com.svg" title="Miro" **alt="Miro" width="40" height="40"/>&nbsp;
 </div>
 
-### Database
+<h4>Database</h4>
 
 <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/phpmyadmin-seeklogo.com.svg" title="phpMyAdmin" alt="phpMyAdmin" width="70" height="40"/>&nbsp;
 </div>
 
-### Stats
+### 📊 Stats
 <div>
   <a title="GitHub Stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/?username=luamendonca21&show_icons=true&theme=algolia">
