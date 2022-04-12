@@ -38,7 +38,7 @@
   - 📫 How to reach me: luamendonca_2000@hotmail.com<br>
   - ⚡ I love music, programming, photography, games and hanging out with friends
   
-  ### 👩‍🔧 What do I use on a daily basis
+  ### 👩‍🔧 What do I use for my projects
 
 <h4>Languages, Frameworks & Libraries</h4>
 
