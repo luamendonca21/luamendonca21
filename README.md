@@ -32,11 +32,11 @@
 
   ### :woman_technologist: About Me
 <div>
-  I'm a student currently taking a Master in Computer Engineering.
-  - 👀 I have a special interest in Mobile Development
-  - 🌱 I’m currently learning <b>React Native/Javascript</b> and <b>Flutter/Dart</b>
-  - 📫 How to reach me: luamendonca_2000@hotmail.com
-  - ⚡ I love music, programming, photography, games and hanging out with friends
+  I'm a student currently taking a Master in Computer Engineering<br>
+    - 👀 I have a special interest in Mobile Development<br>
+    - 🌱 I’m currently learning <b>React Native/Javascript</b> and <b>Flutter/Dart</b><br>
+    - 📫 How to reach me: luamendonca_2000@hotmail.com<br>
+    - ⚡ I love music, programming, photography, games and hanging out with friends
  </div>
 
 ### Languages, Frameworks & Libraries
