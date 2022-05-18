@@ -91,7 +91,7 @@
 ### 📊 Stats
 <div>
   <a title="GitHub Stats">
-    <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luamendonca21&theme=algolia">
+    <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luamendonca21&theme=radical">
   <a title = "Github Stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=luamendonca21&show_icons=true&theme=radical">
 </div>
