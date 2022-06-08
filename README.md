@@ -8,7 +8,7 @@
 
 <!-- LINK TO EMOJIS https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md?msclkid=6b85705daf3e11ecac4572c7f8e81b0d#animals--nature -->
 
-### Hello world 👋
+### Hello world! 👋
 
 <h3> 🤝 Connect with me</h3>
 <a href="https://www.linkedin.com/in/luanamendonca21">
