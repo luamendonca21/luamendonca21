@@ -11,6 +11,9 @@
 ### Hello world! 👋
 
 <h3> 🤝 Connect with me</h3>
+<a href="https://github.com/KasRoudra" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-KasRoudra-green?style=for-the-badge&logo=discord">
+</a>
 <a href="https://www.linkedin.com/in/luanamendonca21">
   <img src="https://img.shields.io/badge/LinkedIn-2554da?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
