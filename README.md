@@ -11,7 +11,7 @@
 ### Hello world! 👋
 
 <h3> 🤝 Connect with me</h3>
-  <img src="https://img.shields.io/badge/Discord-tecna#4508-white?style=for-the-badge&logo=discord">
+  <img src="https://img.shields.io/badge/Discord-tecna4508-white?style=for-the-badge&logo=discord">
 <a href="https://www.linkedin.com/in/luanamendonca21">
   <img src="https://img.shields.io/badge/LinkedIn-2554da?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
