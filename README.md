@@ -11,7 +11,7 @@
 ### Hello world! 👋
 
 <h3> 🤝 Connect with me</h3>
-<a href="https://discord.com/users/688143629432258592>
+<a href="https://discord.com/users/688143629432258592">
   <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord">
  </a>
 <a href="https://www.linkedin.com/in/luanamendonca21">
