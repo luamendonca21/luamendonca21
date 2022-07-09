@@ -37,7 +37,7 @@
 
   I'm a student currently taking a Master in Computer Engineering.<br>
   - 👀 I have a special interest in Mobile Development<br>
-  - 🌱 I’m currently learning <b>Javascript</b>, <b>React</b> & <b>React Native</b><br>
+  - 🌱 I’m currently learning Javascript, React & React Native<br>
   - ⚡ I love music, programming, photography, games and hanging out with friends
   
    ### 📫 How to reach me
